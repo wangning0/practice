@@ -1,6 +1,3 @@
-/**
- * Created by wangning on 2017/1/22.
- */
 import Express from 'express';
 import qs from 'qs';
 
